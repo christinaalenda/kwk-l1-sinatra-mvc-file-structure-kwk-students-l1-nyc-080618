@@ -1,3 +1,3 @@
 class Model
-  # Replace with Dog clas
+  Dog.new("rudolph", "mastiff", 2)
 end
